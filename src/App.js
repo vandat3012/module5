@@ -5,6 +5,7 @@ import ProductApp from "./product/ProductApp";
 import CreateProduct from "./product/CreateProduct";
 import EditProduct from "./product/EditProduct";
 import Information from "./product/Information";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 
 function App() {
